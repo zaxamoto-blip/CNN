@@ -1,0 +1,16 @@
+{
+  "contrast": "randomized_minus_correlated_conflict_shape_accuracy",
+  "mean_difference": 0.06265432098765432,
+  "paired_seed_differences": [
+    0.05679012345679002,
+    0.050617283950617264,
+    0.0805555555555556
+  ],
+  "paired_seed_difference_sd": 0.015807170404076448,
+  "test_image_cluster_bootstrap_95ci": [
+    0.0499974279835391,
+    0.07551697530864197
+  ],
+  "bootstrap_replicates": 2000,
+  "interpretation": "CI conditional on fixed trained models and split; does not include writer/split/training uncertainty."
+}
