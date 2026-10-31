@@ -1,0 +1,56 @@
+{
+  "checked_utc": "2026-10-31T09:33:26.774375+00:00",
+  "full_retraining_runs": 9,
+  "all_weights_identical": true,
+  "all_metrics_identical": true,
+  "all_logits_and_predictions_identical": true,
+  "prediction_files_compared": 45,
+  "checks": [
+    {
+      "condition": "plain",
+      "seed": 11,
+      "max_parameter_difference": 0.0
+    },
+    {
+      "condition": "correlated",
+      "seed": 11,
+      "max_parameter_difference": 0.0
+    },
+    {
+      "condition": "randomized",
+      "seed": 11,
+      "max_parameter_difference": 0.0
+    },
+    {
+      "condition": "plain",
+      "seed": 22,
+      "max_parameter_difference": 0.0
+    },
+    {
+      "condition": "correlated",
+      "seed": 22,
+      "max_parameter_difference": 0.0
+    },
+    {
+      "condition": "randomized",
+      "seed": 22,
+      "max_parameter_difference": 0.0
+    },
+    {
+      "condition": "plain",
+      "seed": 33,
+      "max_parameter_difference": 0.0
+    },
+    {
+      "condition": "correlated",
+      "seed": 33,
+      "max_parameter_difference": 0.0
+    },
+    {
+      "condition": "randomized",
+      "seed": 33,
+      "max_parameter_difference": 0.0
+    }
+  ],
+  "scope": "same pinned reference environment, fixed CPU threads and data split"
+}
