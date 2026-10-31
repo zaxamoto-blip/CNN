@@ -1,0 +1,13 @@
+{
+  "total_original_images": 1797,
+  "unique_original_hashes": 1797,
+  "cross_split_duplicate_count": 0,
+  "split_before_transform": true,
+  "writer_disjoint": false,
+  "source_url": "https://archive.ics.uci.edu/dataset/80/optical+recognition+of+handwritten+digits",
+  "loader_url": "https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_digits.html",
+  "license": "CC BY 4.0",
+  "authors": "E. Alpaydin and C. Kaynak (1998)",
+  "doi": "10.24432/C50P49",
+  "note": "1,797-image sklearn copy of UCI's original test subset; re-split for this study."
+}
