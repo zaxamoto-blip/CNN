@@ -4,7 +4,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zaxamoto-blip/CNN/blob/main/Shape_Texture_Experiment.ipynb)
 
-[Notebook พร้อมรัน](Shape_Texture_Experiment.ipynb) · [ผลดิบทุก seed](results/per_run_metrics.csv) · [คำทำนายก่อนรัน](PREREGISTRATION.md) · [คู่มือภาษาไทย](SUBMISSION_GUIDE_TH.md)
+[Notebook พร้อมรัน](Shape_Texture_Experiment.ipynb) · [ผลดิบทุก seed](results/per_run_metrics.csv) · [คำทำนายก่อนรัน](PREREGISTRATION.md) 
 
 ## คำถามและการทดลอง
 
