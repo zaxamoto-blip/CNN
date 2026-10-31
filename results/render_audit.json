@@ -1,0 +1,50 @@
+{
+  "paired_texture_max_sorted_pixel_difference": 0.0,
+  "identical_foreground_masks": true,
+  "conflicts_per_original_test_image": 9,
+  "test_original_count": 360,
+  "conflict_count": 3240,
+  "normal_images_untextured_grayscale": true,
+  "texture_id_definition": {
+    "0": {
+      "cycles_per_image": 3,
+      "angle_degrees": 0
+    },
+    "1": {
+      "cycles_per_image": 3,
+      "angle_degrees": 36
+    },
+    "2": {
+      "cycles_per_image": 3,
+      "angle_degrees": 72
+    },
+    "3": {
+      "cycles_per_image": 3,
+      "angle_degrees": 108
+    },
+    "4": {
+      "cycles_per_image": 3,
+      "angle_degrees": 144
+    },
+    "5": {
+      "cycles_per_image": 6,
+      "angle_degrees": 0
+    },
+    "6": {
+      "cycles_per_image": 6,
+      "angle_degrees": 36
+    },
+    "7": {
+      "cycles_per_image": 6,
+      "angle_degrees": 72
+    },
+    "8": {
+      "cycles_per_image": 6,
+      "angle_degrees": 108
+    },
+    "9": {
+      "cycles_per_image": 6,
+      "angle_degrees": 144
+    }
+  }
+}
