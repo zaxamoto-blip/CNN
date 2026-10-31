@@ -1,0 +1,143 @@
+[
+  {
+    "condition": "plain",
+    "view": "normal",
+    "n": 360,
+    "shape_accuracy_mean": 0.9759259259259259,
+    "shape_accuracy_sd": 0.0032075014954979094
+  },
+  {
+    "condition": "plain",
+    "view": "plain",
+    "n": 360,
+    "shape_accuracy_mean": 0.9675925925925926,
+    "shape_accuracy_sd": 0.011226255234242683
+  },
+  {
+    "condition": "plain",
+    "view": "aligned",
+    "n": 360,
+    "shape_accuracy_mean": 0.9046296296296297,
+    "shape_accuracy_sd": 0.012525693757841329,
+    "texture_agreement_mean": 0.9046296296296297,
+    "texture_agreement_sd": 0.012525693757841329
+  },
+  {
+    "condition": "plain",
+    "view": "conflict",
+    "n": 3240,
+    "shape_accuracy_mean": 0.9032921810699589,
+    "shape_accuracy_sd": 0.018103195916267575,
+    "texture_agreement_mean": 0.011728395061728396,
+    "texture_agreement_sd": 0.0008165899108224046,
+    "other_rate_mean": 0.08497942386831277,
+    "other_rate_sd": 0.01729588799992764,
+    "coverage_mean": 0.9150205761316871,
+    "coverage_sd": 0.01729588799992764,
+    "conditional_shape_bias_mean": 0.9871680481421322,
+    "conditional_shape_bias_sd": 0.0011444638641582726
+  },
+  {
+    "condition": "plain",
+    "view": "texture_only_disk",
+    "n": 3600,
+    "shape_accuracy_mean": 0.10000000000000002,
+    "shape_accuracy_sd": 1.6996749443881478e-17,
+    "texture_agreement_mean": 0.10000000000000002,
+    "texture_agreement_sd": 1.6996749443881478e-17
+  },
+  {
+    "condition": "correlated",
+    "view": "normal",
+    "n": 360,
+    "shape_accuracy_mean": 0.9490740740740741,
+    "shape_accuracy_sd": 0.018907942459872346
+  },
+  {
+    "condition": "correlated",
+    "view": "plain",
+    "n": 360,
+    "shape_accuracy_mean": 0.9185185185185185,
+    "shape_accuracy_sd": 0.03539169417336369
+  },
+  {
+    "condition": "correlated",
+    "view": "aligned",
+    "n": 360,
+    "shape_accuracy_mean": 0.9796296296296297,
+    "shape_accuracy_sd": 0.00892930626017867,
+    "texture_agreement_mean": 0.9796296296296297,
+    "texture_agreement_sd": 0.00892930626017867
+  },
+  {
+    "condition": "correlated",
+    "view": "conflict",
+    "n": 3240,
+    "shape_accuracy_mean": 0.8882716049382716,
+    "shape_accuracy_sd": 0.014374235829870432,
+    "texture_agreement_mean": 0.02654320987654321,
+    "texture_agreement_sd": 0.005425430812113255,
+    "other_rate_mean": 0.08518518518518518,
+    "other_rate_sd": 0.01417402778173458,
+    "coverage_mean": 0.9148148148148149,
+    "coverage_sd": 0.01417402778173458,
+    "conditional_shape_bias_mean": 0.9709902981894244,
+    "conditional_shape_bias_sd": 0.00584022404743577
+  },
+  {
+    "condition": "correlated",
+    "view": "texture_only_disk",
+    "n": 3600,
+    "shape_accuracy_mean": 0.10000000000000002,
+    "shape_accuracy_sd": 1.6996749443881478e-17,
+    "texture_agreement_mean": 0.10000000000000002,
+    "texture_agreement_sd": 1.6996749443881478e-17
+  },
+  {
+    "condition": "randomized",
+    "view": "normal",
+    "n": 360,
+    "shape_accuracy_mean": 0.9712962962962962,
+    "shape_accuracy_sd": 0.011226255234242683
+  },
+  {
+    "condition": "randomized",
+    "view": "plain",
+    "n": 360,
+    "shape_accuracy_mean": 0.9657407407407407,
+    "shape_accuracy_sd": 0.008486251286955229
+  },
+  {
+    "condition": "randomized",
+    "view": "aligned",
+    "n": 360,
+    "shape_accuracy_mean": 0.9481481481481481,
+    "shape_accuracy_sd": 0.00578240555407257,
+    "texture_agreement_mean": 0.9481481481481481,
+    "texture_agreement_sd": 0.00578240555407257
+  },
+  {
+    "condition": "randomized",
+    "view": "conflict",
+    "n": 3240,
+    "shape_accuracy_mean": 0.950925925925926,
+    "shape_accuracy_sd": 0.005912729648354357,
+    "texture_agreement_mean": 0.006069958847736625,
+    "texture_agreement_sd": 0.00017819452752766186,
+    "other_rate_mean": 0.04300411522633744,
+    "other_rate_sd": 0.005809797491150436,
+    "coverage_mean": 0.9569958847736625,
+    "coverage_sd": 0.005809797491150436,
+    "conditional_shape_bias_mean": 0.9936566930581296,
+    "conditional_shape_bias_sd": 0.0002102407505262852
+  },
+  {
+    "condition": "randomized",
+    "view": "texture_only_disk",
+    "n": 3600,
+    "shape_accuracy_mean": 0.10000000000000002,
+    "shape_accuracy_sd": 1.6996749443881478e-17,
+    "texture_agreement_mean": 0.10000000000000002,
+    "texture_agreement_sd": 1.6996749443881478e-17
+  }
+]
