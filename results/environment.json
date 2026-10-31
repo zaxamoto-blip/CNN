@@ -1,0 +1,54 @@
+{
+  "started_utc": "2026-10-31T09:28:51.263392+00:00",
+  "python": "3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]",
+  "torch": "2.6.0+cpu",
+  "numpy": "2.3.5",
+  "sklearn": "1.8.0",
+  "platform": "Linux-6.18.57-x86_64-with-glibc2.39",
+  "processor": "x86_64",
+  "torch_threads": 2,
+  "device": "cpu",
+  "config": {
+    "protocol_version": "1.0",
+    "split_seed": 20261031,
+    "seeds": [
+      11,
+      22,
+      33
+    ],
+    "conditions": [
+      "plain",
+      "correlated",
+      "randomized"
+    ],
+    "epochs": 50,
+    "batch_size": 128,
+    "learning_rate": 0.001,
+    "weight_decay": 0.0001,
+    "image_size": 32,
+    "mask_threshold": 0.25,
+    "normal_fraction": 0.25,
+    "texture_angles_degrees": [
+      0,
+      36,
+      72,
+      108,
+      144
+    ],
+    "texture_cycles_per_image": [
+      3,
+      6
+    ],
+    "texture_range": [
+      0.25,
+      0.95
+    ],
+    "torch_threads": 2,
+    "evaluation_seed": 71031,
+    "bootstrap_seed": 91031,
+    "bootstrap_replicates": 2000
+  },
+  "protocol_sha256": "8f92113defff8c79497bb08f64800247db1791b00f0ee2eb3895ea0a69887a2f",
+  "experiment_source_sha256": "f3692d4577e681c21ad75eeda79cdf4112918b4edfecd14e96ea145110cc55a8",
+  "finished_utc": "2026-10-31T09:31:00.252334+00:00"
+}
